@@ -1,1 +1,1 @@
-# HandwrittenDigitClassificatipn
+# HandwrittenDigitClassification
